@@ -1,5 +1,9 @@
 This file We have created through command cat > public.txt in "GIT BASH"
 
+After Initial Commit. I am trying to write lines in in feature/type branch in UI (Github).
+so that after "Commit changes" I will try to use command $ git fetch in GIT BASH terminal 
+followed by command $ git pull.
+
 
 
 
